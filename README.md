@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pratham Mirdoddiwar</h1>
 <h3 align="center">A passionate Web and Flutter developer from India</h3>
 <img align="right" alt="Coding" width="400" style="center" src="https://blog.programminghub.io/wp-content/uploads/2020/05/T-C-B-2-final-01.png">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratham702" alt="pratham702" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://camo.githubusercontent.com/8b9bd68f125cdc112a6038b59d9961ac3e888a545b3832786fde0fb612967c3d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7a68595356436972524565495a744f4e43492f67697068792e676966" alt="pratham702" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
